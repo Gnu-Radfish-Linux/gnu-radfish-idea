@@ -1,0 +1,1 @@
+Gnu Radfish Linux  ist eine Ansammlung von Anletungen und Scripte, die das Benutzen von Gnu Linux OpenSuse auf einen Desktop im Business Umfeld erleichtern.
